@@ -14,12 +14,12 @@
 
 ![image](https://github.com/user-attachments/assets/8121018a-c956-41a0-b93f-2e237c40d2fd)
 
-**Embedding Model: **
+**Embedding Model:**
 
 ![image](https://github.com/user-attachments/assets/839b922a-b0c3-44f0-aade-1b2796582f31)
 
 
-**Vector Databases: ""
+**Vector Databases:**
 
 ![image](https://github.com/user-attachments/assets/b54336bc-4afd-4ca2-bd35-1a6f493a1415)
 
